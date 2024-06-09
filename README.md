@@ -14,3 +14,4 @@
 * Carregamento de dados em batch: Implementar técnicas de carregamento de dados em batch para reduzir o consumo de memória e melhorar a eficiência do treinamento.
 * Diversificação do dataset: Ampliar o conjunto de dados para incluir outras categorias de animais, o que aumentaria a capacidade de generalizaçao do modelo.
 * Tentar outras técnicas de pré-processamento: Refinar as técnicas de pré-processamento para melhorar a qualidade dos dados de entrada e a eficácia do modelo.
+* Utilizar o bounding box para treinamento do modelo.
